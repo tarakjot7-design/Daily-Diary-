@@ -1,4 +1,5 @@
 # 🗓 Day 12 – Introduction to JavaScript
+**Date:** July 8, 2025
 
 ## Topics Covered
 - JavaScript basics  
