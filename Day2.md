@@ -1,4 +1,5 @@
 # 🗓 Day 2 – Basic HTML Tags
+**Date:** June 24, 2025
 
 ## Topics Covered
 - HTML structure: `<html>`, `<head>`, `<body>`  
