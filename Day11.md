@@ -1,4 +1,5 @@
 # 🗓 Day 11 – Responsive Design Basics
+**Date:** July 7, 2025
 
 ## Topics Covered
 - Introduction to media queries  
