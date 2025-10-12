@@ -1,4 +1,5 @@
 # 🗓 Day 3 – Lists and Links
+**Date:** June 25, 2025
 
 ## Topics Covered
 - Ordered and Unordered Lists  
