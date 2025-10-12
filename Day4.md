@@ -1,4 +1,5 @@
 # 🗓 Day 4 – Images and Tables
+**Date:** June 26, 2025
 
 ## Topics Covered
 - Image insertion using `<img>`  
