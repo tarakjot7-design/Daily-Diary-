@@ -1,4 +1,5 @@
 # 🗓 Day 6 – Introduction to CSS
+**Date:** June 30, 2025
 
 ## Topics Covered
 - Purpose of CSS  
