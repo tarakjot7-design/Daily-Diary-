@@ -1,4 +1,5 @@
 # 🗓 Day 9 – CSS Position and Display
+**Date:** July 3, 2025
 
 ## Topics Covered
 - `position`: relative, absolute, fixed  
