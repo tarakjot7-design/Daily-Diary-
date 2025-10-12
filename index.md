@@ -1,6 +1,6 @@
 # 🌐 Web Development Training Diary
 
-**By Tarakjot Kaur and Pawni Bansal**  
+
 B.Tech CSE | 4-Week Web Development Training  
 
 ---
