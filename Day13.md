@@ -1,5 +1,5 @@
 # 🗓 Day 13 – Variables and Data Types
-** Date: July 8,2025 **
+**Date:** July 9, 2025
 
 ## Topics Covered
 - Variables (`let`, `const`)  
